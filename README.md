@@ -1,2 +1,2 @@
 # bc_tissue_rnaSeq
-Personal project for piloting rnaSeq workflow and differential gene expression
+Personal project for piloting rnaSeq workflow and differential gene expression utilzing public ngs data
