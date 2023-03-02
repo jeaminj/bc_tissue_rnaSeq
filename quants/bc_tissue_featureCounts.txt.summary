@@ -1,0 +1,15 @@
+Status	mappedReads/SRR15852396.bam	mappedReads/SRR15852426.bam
+Assigned	1267822	1464972
+Unassigned_Unmapped	1077977	995998
+Unassigned_Read_Type	0	0
+Unassigned_Singleton	0	0
+Unassigned_MappingQuality	0	0
+Unassigned_Chimera	0	0
+Unassigned_FragmentLength	0	0
+Unassigned_Duplicate	0	0
+Unassigned_MultiMapping	4707756	1461378
+Unassigned_Secondary	0	0
+Unassigned_NonSplit	0	0
+Unassigned_NoFeatures	3968859	5566617
+Unassigned_Overlapping_Length	0	0
+Unassigned_Ambiguity	157929	137515
